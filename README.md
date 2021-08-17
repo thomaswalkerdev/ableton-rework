@@ -1,27 +1,20 @@
-# AbletonRework
+## Front End Practice - Ableton Rework
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+**Source:** [FrontEndPractice - Ableton](https://www.frontendpractice.com/project/ableton)
 
-## Development server
+**Live Site:** [Ableton - Live](https://www.ableton.com/en/about/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![Ableton Live Site Image](https://www.frontendpractice.com/static/62bbb1ccb81d988f14a524cb2007405e/709dc/58a92974-13a1-4dc8-82d1-748c92edf44f_fs-1.jpg)
+## Color Palette:
 
-## Code scaffolding
+**Yellow:** #fbffa7
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+**Purple:** #d5b3ff
 
-## Build
+**Coral/Orange:** #ff764d
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+**Light Green:** #b6ffc0
 
-## Running unit tests
+**Light Blue/Light Purple:** #b1c5ff
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**Blue:** #0000ff
