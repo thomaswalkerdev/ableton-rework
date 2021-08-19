@@ -1,2 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
-@import './abstracts/reset';
+
+
+@import './abstracts/variables';
+
+@import './base/reset';
+
+@import './layout/header';
+

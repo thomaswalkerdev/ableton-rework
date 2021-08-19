@@ -32,3 +32,7 @@ CSS reset should not be relied upon but should be ok for smaller projects especi
 
 Going to start off by using meyer's reset but attempt to replace it with one of my own later on as the browser specific css becomes more familiar
 
+
+**Navigation**
+
+[Source for extra information about sticky](https://css-tricks.com/sticky-smooth-active-nav/)

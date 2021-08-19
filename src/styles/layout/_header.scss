@@ -1,0 +1,10 @@
+.sticky-header {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    background-color: $block-colour-one;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
